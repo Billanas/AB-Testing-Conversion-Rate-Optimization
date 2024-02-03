@@ -10,7 +10,7 @@ The key variables in this test are:
 Through statistical analysis, we aim to ascertain whether Variant B, with a different call-to-action (CTA) button, leads to a higher conversion rate than Variant A.
 
 ## Dataset
-The dataset `ab_test_dataset.csv` contains results from 2,000 users split evenly between two variants, A and B, with each row representing whether a user converted or not after visiting the webpage.
+The dataset contains results from 2,000 users split evenly between two variants, A and B, with each row representing whether a user converted or not after visiting the webpage.
 
 ## Analysis
 The analysis involves:
